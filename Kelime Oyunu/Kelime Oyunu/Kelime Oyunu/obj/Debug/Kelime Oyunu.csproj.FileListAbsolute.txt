@@ -1,0 +1,11 @@
+C:\Users\Eray\Desktop\Kelime Oyunu\Kelime Oyunu\Kelime Oyunu\bin\Debug\Kelime Oyunu.exe.config
+C:\Users\Eray\Desktop\Kelime Oyunu\Kelime Oyunu\Kelime Oyunu\bin\Debug\Kelime Oyunu.exe
+C:\Users\Eray\Desktop\Kelime Oyunu\Kelime Oyunu\Kelime Oyunu\bin\Debug\Kelime Oyunu.pdb
+C:\Users\Eray\Desktop\Kelime Oyunu\Kelime Oyunu\Kelime Oyunu\obj\Debug\Kelime Oyunu.csprojAssemblyReference.cache
+C:\Users\Eray\Desktop\Kelime Oyunu\Kelime Oyunu\Kelime Oyunu\obj\Debug\Kelime_Oyunu.Form1.resources
+C:\Users\Eray\Desktop\Kelime Oyunu\Kelime Oyunu\Kelime Oyunu\obj\Debug\Kelime_Oyunu.Form2.resources
+C:\Users\Eray\Desktop\Kelime Oyunu\Kelime Oyunu\Kelime Oyunu\obj\Debug\Kelime_Oyunu.Properties.Resources.resources
+C:\Users\Eray\Desktop\Kelime Oyunu\Kelime Oyunu\Kelime Oyunu\obj\Debug\Kelime Oyunu.csproj.GenerateResource.cache
+C:\Users\Eray\Desktop\Kelime Oyunu\Kelime Oyunu\Kelime Oyunu\obj\Debug\Kelime Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Eray\Desktop\Kelime Oyunu\Kelime Oyunu\Kelime Oyunu\obj\Debug\Kelime Oyunu.exe
+C:\Users\Eray\Desktop\Kelime Oyunu\Kelime Oyunu\Kelime Oyunu\obj\Debug\Kelime Oyunu.pdb
